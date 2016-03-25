@@ -1,0 +1,24 @@
+{
+  "name": "habanero",
+  "version": "0.0.1",
+  "description": "",
+  "main": "habanero.js",
+  "generator-core-version": "~3",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogr/habanero.git"
+  },
+  "author": "Rog, Ale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogr/habanero/issues"
+  },
+  "homepage": "https://github.com/rogr/habanero#readme",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "lodash.foreach": "^4.1.0"
+  }
+}
